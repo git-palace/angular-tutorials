@@ -1,3 +1,11 @@
+/ng-reactive-forms/dist
+/ng-reactive-forms/dist-server
+/ng-reactive-forms/tmp
+/ng-reactive-forms/out-tsc
+/ng-reactive-forms/node_modules
+/ng-reactive-forms/package-lock.json
+/ng-reactive-forms/npm-debug.log
+
 /ng-animations/dist
 /ng-animations/dist-server
 /ng-animations/tmp
